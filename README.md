@@ -22,21 +22,21 @@
 
 ![December Summary Statistics](https://github.com/mrma2318/surfs_up/blob/552e3e587c17d2823acd5f8a8213d0cff07ddf05/dec_temp_summary.png)
 
-[SurfsUp_Challenge](https://github.com/mrma2318/surfs_up/blob/36e496dd30e85c23d2d2534eae170cce86401708/SurfsUp_Challenge.ipynb)
+To view the full script you can click on [SurfsUp_Challenge](https://github.com/mrma2318/surfs_up/blob/36e496dd30e85c23d2d2534eae170cce86401708/SurfsUp_Challenge.ipynb).
 
 ## Results
-- There are three major points we can draw from the two deliverables. The first point, is that before we could get the summary statistics for the months of June and December is that we needed to convert the month temperatures into a list so that we could create a DataFrame. 
+- There are three major points we can draw from the two deliverables. The first point, is that before we could get the summary statistics for the months of June and December, we needed to convert the month temperatures into a list so that we could create a DataFrame. 
 
-- The second point is that on average, the temperatures in June gets around 75 degrees. 
+- The second point is that on average, the temperatures in June get around 75 degrees. 
 
 ![June Summary Statistics](https://github.com/mrma2318/surfs_up/blob/552e3e587c17d2823acd5f8a8213d0cff07ddf05/june_temp_summary.png)
 
-- Where the average temperatures in December gets around 71 degrees. 
+- Where the average temperatures in December get around 71 degrees. 
 
 ![December Summary Statistics](https://github.com/mrma2318/surfs_up/blob/552e3e587c17d2823acd5f8a8213d0cff07ddf05/dec_temp_summary.png)
 
 
-- Therefore, the third point is that between the months of June and December the temperatures are fairly close. However, it does get slightly colder at times in December with a minimum temperature of 56 degrees, whereas June has a minimum temperature of 64 degrees. 
+- Therefore, the third point is that between the months of June and December the temperatures are fairly close on average. However, it does get slightly colder at times in December with a minimum temperature of 56 degrees, whereas June has a minimum temperature of 64 degrees. 
 
 ## Summary
 - To conclude, the maximum temperatures for June and Decemeber are around the same temperature. However, June has a higher minimum temperature compared to December. The minimum temperatures in December get as low as 56 degrees, the average temperature get's around 71 degrees. Therefore, when deciding to open the surf and ice cream shop, so summer months might be a better fit. 
